@@ -103,9 +103,121 @@ Currently, I'm strengthening my understanding of **software engineering fundamen
 
 ### Security & APIs
 
-<p>
-<b>REST APIs</b> · <b>JWT</b> · <b>Spring Security</b> · <b>Role-Based Access Control</b>
-</p>
+<table>
+<tr>
+
+<td align="center" width="140">
+<img src="https://cdn.simpleicons.org/jsonwebtokens" width="45" height="45" alt="JWT"/>
+<br><sub><b>JWT</b></sub>
+</td>
+
+<td align="center" width="140">
+<img src="https://cdn.simpleicons.org/springsecurity" width="45" height="45" alt="Spring Security"/>
+<br><sub><b>Spring Security</b></sub>
+</td>
+
+<td align="center" width="140">
+<img src="https://cdn.simpleicons.org/openapiinitiative" width="45" height="45" alt="REST APIs"/>
+<br><sub><b>REST APIs</b></sub>
+</td>
+
+<td align="center" width="140">
+<img src="https://cdn.simpleicons.org/auth0" width="45" height="45" alt="Role Based Access Control"/>
+<br><sub><b>RBAC</b></sub>
+</td>
+
+</tr>
+</table>
+
+---
+
+### AI / Machine Learning
+
+<table>
+<tr>
+
+<td align="center" width="140">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="45" height="45" alt="Machine Learning"/>
+<br><sub><b>Machine Learning</b></sub>
+</td>
+
+<td align="center" width="140">
+<img src="https://cdn.simpleicons.org/openai" width="45" height="45" alt="AI Applications"/>
+<br><sub><b>AI Applications</b></sub>
+</td>
+
+<td align="center" width="140">
+<img src="https://cdn.simpleicons.org/openai" width="45" height="45" alt="AI Assistants"/>
+<br><sub><b>AI Assistants</b></sub>
+</td>
+
+<td align="center" width="140">
+<img src="https://cdn.simpleicons.org/chainlink" width="45" height="45" alt="Multi Agent Systems"/>
+<br><sub><b>Multi-Agent Systems</b></sub>
+</td>
+
+</tr>
+</table>
+
+---
+
+### Cloud & Tools
+
+<table>
+<tr>
+
+<td align="center" width="120">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="45" height="45" alt="Git"/>
+<br><sub><b>Git</b></sub>
+</td>
+
+<td align="center" width="120">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="45" height="45" alt="GitHub"/>
+<br><sub><b>GitHub</b></sub>
+</td>
+
+<td align="center" width="120">
+<img src="https://cdn.simpleicons.org/railway" width="45" height="45" alt="Railway"/>
+<br><sub><b>Railway</b></sub>
+</td>
+
+<td align="center" width="120">
+<img src="https://cdn.simpleicons.org/vercel" width="45" height="45" alt="Vercel"/>
+<br><sub><b>Vercel</b></sub>
+</td>
+
+<td align="center" width="120">
+<img src="https://cdn.simpleicons.org/intellijidea" width="45" height="45" alt="IntelliJ IDEA"/>
+<br><sub><b>IntelliJ IDEA</b></sub>
+</td>
+
+</tr>
+
+<tr>
+
+<td align="center" width="120">
+<img src="https://cdn.simpleicons.org/anthropic" width="45" height="45" alt="Claude"/>
+<br><sub><b>Claude</b></sub>
+</td>
+
+<td align="center" width="120">
+<img src="https://cdn.simpleicons.org/openai" width="45" height="45" alt="Codex"/>
+<br><sub><b>Codex</b></sub>
+</td>
+
+<td align="center" width="120">
+<img src="https://cdn.simpleicons.org/opencode" width="45" height="45" alt="OpenCode"/>
+<br><sub><b>OpenCode</b></sub>
+</td>
+
+<td align="center" width="120">
+<img src="https://cdn.simpleicons.org/google" width="45" height="45" alt="Antigravity"/>
+<br><sub><b>Antigravity</b></sub>
+</td>
+
+</tr>
+</table>
+
 
 ### Testing & Tools
 
