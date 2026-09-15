@@ -1,19 +1,22 @@
-# Hi, I'm Gagan V
+# 👋 Hi, I'm Gagan V
 
-Computer Science & Engineering student focused on **backend engineering and full-stack development**. I build practical applications involving REST APIs, databases, authentication, and AI-powered systems.
+### 💻 Computer Science & Engineering Student | Backend & Full-Stack Developer
 
-<p align="left">
-  <a href="https://github.com/gagan232005">GitHub</a> ·
-  <a href="https://www.linkedin.com/in/gagan232005/">LinkedIn</a>
-</p>
+Backend Development · REST APIs · Databases · Full-Stack Development · AI/ML
+
+Building practical software • Solving problems • Learning system design • Exploring AI-powered applications
+
+[GitHub](https://github.com/gagan232005) · [LinkedIn](https://www.linkedin.com/in/gagan232005/)
 
 ---
 
 ## About
 
-I'm interested in building reliable, practical software and understanding systems across the frontend, backend, database, and API layers.
+I'm a Computer Science & Engineering student focused on **backend engineering and full-stack development**.
 
-My primary focus areas are **backend development, REST APIs, database-driven applications, full-stack development, and AI-powered applications**.
+I enjoy building end-to-end applications involving **REST APIs, databases, authentication, backend services, and AI-powered features**.
+
+Currently, I'm strengthening my understanding of **software engineering fundamentals, system design, and scalable application development**.
 
 ---
 
@@ -21,71 +24,128 @@ My primary focus areas are **backend development, REST APIs, database-driven app
 
 ### Languages
 
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40" alt="Java"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40" alt="JavaScript"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40" height="40" alt="TypeScript"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40" alt="HTML5"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40" alt="CSS3"/>
-</p>
+<table>
+<tr>
+<td align="center" width="120">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="45" height="45"/>
+<br><sub><b>Java</b></sub>
+</td>
+
+<td align="center" width="120">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="45" height="45"/>
+<br><sub><b>JavaScript</b></sub>
+</td>
+
+<td align="center" width="120">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="45" height="45"/>
+<br><sub><b>TypeScript</b></sub>
+</td>
+
+<td align="center" width="120">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="45" height="45"/>
+<br><sub><b>HTML5</b></sub>
+</td>
+
+<td align="center" width="120">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="45" height="45"/>
+<br><sub><b>CSS3</b></sub>
+</td>
+</tr>
+</table>
 
 ### Frontend
 
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40" alt="React"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vite/vite-original.svg" width="40" height="40" alt="Vite"/>
-</p>
+<table>
+<tr>
+<td align="center" width="120">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="45" height="45"/>
+<br><sub><b>React</b></sub>
+</td>
+
+<td align="center" width="120">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vite/vite-original.svg" width="45" height="45"/>
+<br><sub><b>Vite</b></sub>
+</td>
+</tr>
+</table>
 
 ### Backend
 
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="40" height="40" alt="Spring Boot"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" height="40" alt="Node.js"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="40" height="40" alt="Express.js"/>
-</p>
+<table>
+<tr>
+<td align="center" width="120">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="45" height="45"/>
+<br><sub><b>Spring Boot</b></sub>
+</td>
 
-### Databases
+<td align="center" width="120">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="45" height="45"/>
+<br><sub><b>Node.js</b></sub>
+</td>
 
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" height="40" alt="MySQL"/>
-</p>
+<td align="center" width="120">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="45" height="45"/>
+<br><sub><b>Express.js</b></sub>
+</td>
+</tr>
+</table>
+
+### Database
+
+<table>
+<tr>
+<td align="center" width="120">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="45" height="45"/>
+<br><sub><b>MySQL</b></sub>
+</td>
+</tr>
+</table>
 
 ### Security & APIs
 
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/json/json-original.svg" width="40" height="40" alt="JSON"/>
+<p>
+<b>REST APIs</b> · <b>JWT</b> · <b>Spring Security</b> · <b>Role-Based Access Control</b>
 </p>
 
-**REST APIs · JWT · Spring Security · Role-Based Access Control**
+### Testing & Tools
 
-### Testing & Development Tools
+<table>
+<tr>
+<td align="center" width="120">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" width="45" height="45"/>
+<br><sub><b>Jest</b></sub>
+</td>
 
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" width="40" height="40" alt="Jest"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" height="40" alt="Docker"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40" alt="Git"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" height="40" alt="GitHub"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/maven/maven-original.svg" width="40" height="40" alt="Maven"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" width="40" height="40" alt="Postman"/>
-</p>
+<td align="center" width="120">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="45" height="45"/>
+<br><sub><b>Docker</b></sub>
+</td>
 
-**GitHub Actions · Supertest · ESLint · Prettier**
+<td align="center" width="120">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="45" height="45"/>
+<br><sub><b>Git</b></sub>
+</td>
 
----
+<td align="center" width="120">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="45" height="45"/>
+<br><sub><b>GitHub</b></sub>
+</td>
 
-## Core Areas
+<td align="center" width="120">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/maven/maven-original.svg" width="45" height="45"/>
+<br><sub><b>Maven</b></sub>
+</td>
 
-**Backend Engineering**
-REST APIs · Authentication · Authorization · Database Integration · API Design
+<td align="center" width="120">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" width="45" height="45"/>
+<br><sub><b>Postman</b></sub>
+</td>
+</tr>
+</table>
 
-**Full-Stack Development**
-React · TypeScript · Spring Boot · Node.js · Express.js
+### AI / Machine Learning
 
-**Computer Science**
-Data Structures & Algorithms · Object-Oriented Programming · DBMS · Operating Systems · Computer Networks
-
-**AI / ML**
-Machine Learning · AI-assisted Applications · Multi-Agent Systems
+**Machine Learning · AI Applications · AI Assistants · Multi-Agent Systems**
 
 ---
 
@@ -93,7 +153,7 @@ Machine Learning · AI-assisted Applications · Multi-Agent Systems
 
 ### Mutual Funds Performance Prediction Platform
 
-Full-stack platform for mutual fund analysis with machine learning-based performance prediction, SIP analysis, and AI-assisted insights.
+A full-stack platform for mutual fund analysis with machine-learning-based performance prediction, SIP analysis, and AI-assisted insights.
 
 **Tech:** React · Spring Boot · REST APIs · MySQL · Machine Learning · AI
 
@@ -103,7 +163,7 @@ Full-stack platform for mutual fund analysis with machine learning-based perform
 
 ### TripMinds
 
-Multi-agent AI travel planning system that generates structured, budget-aware itineraries using specialized AI agents.
+A multi-agent AI travel planning system that generates structured and budget-aware travel itineraries.
 
 **Tech:** React · Vite · Node.js · Express.js · AI · Multi-Agent Systems
 
@@ -113,7 +173,7 @@ Multi-agent AI travel planning system that generates structured, budget-aware it
 
 ### FitSync
 
-Full-stack fitness management platform supporting members, trainers, and administrators with fitness tracking and role-based functionality.
+A full-stack fitness management platform supporting members, trainers, and administrators with fitness tracking and role-based functionality.
 
 **Tech:** React · TypeScript · Spring Boot · Spring Security · JPA · MySQL · JWT
 
@@ -123,7 +183,7 @@ Full-stack fitness management platform supporting members, trainers, and adminis
 
 ### Learning Management System
 
-Full-stack learning platform with course management, enrollment, lessons, quizzes, progress tracking, certificates, and role-based authorization.
+A full-stack learning platform with course management, enrollment, lessons, quizzes, progress tracking, certificates, and role-based authorization.
 
 **Tech:** React · Node.js · Express.js · MySQL · JWT · Docker · Jest · Supertest
 
@@ -133,7 +193,7 @@ Full-stack learning platform with course management, enrollment, lessons, quizze
 
 ### Vehicle Service Management System
 
-Vehicle service management project developed as part of my software development work.
+A vehicle service management application developed as part of my software development projects.
 
 **Tech:** See repository for the current implementation.
 
@@ -144,8 +204,10 @@ Vehicle service management project developed as part of my software development 
 ## Education
 
 **B.E. Computer Science and Engineering**
+
 Channabasaveshwara Institute of Technology, Gubbi, Tumakuru
-2023–2027 · CGPA: 7.62 / 10
+
+**2023–2027 · CGPA: 7.62 / 10**
 
 ---
 
@@ -161,5 +223,4 @@ Channabasaveshwara Institute of Technology, Gubbi, Tumakuru
   </a>
 </p>
 
-**GitHub:** [github.com/gagan232005](https://github.com/gagan232005)
-**LinkedIn:** [linkedin.com/in/gagan232005](https://www.linkedin.com/in/gagan232005/)
+[GitHub](https://github.com/gagan232005) · [LinkedIn](https://www.linkedin.com/in/gagan232005/)
