@@ -126,28 +126,32 @@ Right now I'm deepening my understanding of **system design, role-based access c
 
 ### <img src="https://raw.githubusercontent.com/lucide-icons/lucide/main/icons/chart-candlestick.svg" width="22" height="22" style="vertical-align:middle"/> Mutual Funds Performance Prediction
 **Description:** A full-stack platform for mutual fund analysis, combining a machine-learning prediction model with SIP analysis and AI-assisted insights.
+
 **Tech Stack:** React · Spring Boot · REST APIs · MySQL · Machine Learning
+
 **Repository:** [github.com/gagan232005/MutualFundsPerformance](https://github.com/gagan232005/MutualFundsPerformance)
 
 ### 🏋️ FitSync
 **Description:** A full-stack gym management platform for members, trainers, and admins — memberships with plan/expiry tracking, GPS-based check-in, an exercise library, and role-based dashboards across a 4-tier permission system.
+
 **Tech Stack:** React · TypeScript · Spring Boot · Spring Security · JPA · MySQL · JWT
+
 **Repository:** [github.com/gagan232005/FitSync](https://github.com/gagan232005/FitSync)
 
 ### 📚 Learning Management System (LearnX)
 **Description:** A course platform covering enrollment, lessons, quizzes, and progress tracking, with certificate generation and role-based authorization for learners, mentors, and admins.
+
 **Tech Stack:** React · Node.js · Express.js · MySQL · JWT · Docker · Jest · Supertest
+
 **Repository:** [github.com/gagan232005/Learning-Management-System](https://github.com/gagan232005/Learning-Management-System)
 
 ### ✈️ TripMinds
 **Description:** A multi-agent AI travel planning system that generates structured, budget-aware itineraries.
+
 **Tech Stack:** React · Vite · Node.js · Express.js · AI · Multi-Agent Systems
+
 **Repository:** [github.com/gagan232005/TripMinds](https://github.com/gagan232005/TripMinds)
 
-### 🚗 Vehicle Service Management System
-**Description:** A service-booking and management application for vehicle maintenance workflows.
-**Tech Stack:** See repository for current implementation
-**Repository:** [github.com/gagan232005/vehicle-service-management](https://github.com/gagan232005/vehicle-service-management)
 
 ---
 
