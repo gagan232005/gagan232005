@@ -1,30 +1,30 @@
-<h1 align="center">Hi, I'm Gagan V 👋</h1>
+# 👋 Hi, I'm Gagan V
 
-<p align="center">
-  <b>Computer Science & Engineering Student · Backend & Full-Stack Developer</b>
-</p>
+### Computer Science & Engineering Student · Backend & Full-Stack Developer
 
-<p align="center">
-  <a href="https://github.com/gagan232005"><img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" alt="GitHub"/></a>
-  <a href="https://www.linkedin.com/in/gagan232005/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-  <a href="mailto:gagan23cs@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" alt="Email"/></a>
-</p>
+Building practical software • Solving problems • Learning system design • Exploring AI-powered applications
 
-<p align="center">
-  Building end-to-end backend systems and full-stack applications — REST APIs, authentication, databases, and AI-powered features.
+<p align="left">
+  <a href="https://github.com/gagan232005">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+  <a href="https://www.linkedin.com/in/gagan232005/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:gagan23cs@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
 </p>
 
 ---
 
-## About Me
+## About
 
-I'm a final-year Computer Science & Engineering student focused on **backend engineering** with a full-stack skill set. I like taking a project from a rough idea to a production-shaped system — designing the data model, building secure REST APIs, and wiring up a real frontend on top of it.
+I'm a Computer Science & Engineering student focused on **backend engineering and full-stack development**.
 
-Right now I'm deepening my understanding of **system design, role-based access control, and scalable application architecture**, mostly through hands-on projects rather than tutorials.
+I enjoy building applications end-to-end — from database design and secure REST APIs to frontend interfaces and deployment.
 
-- 🎓 B.E. in Computer Science & Engineering, Channabasaveshwara Institute of Technology (2023–2027)
-- 🏅 Oracle Certified Foundation Associate — OCI AI Foundations (2025)
-- 🌱 Currently exploring ML-driven analysis, LLM-powered features, and RBAC-driven backend design
+Currently strengthening my understanding of **system design, RBAC, scalable application architecture, and AI-powered applications** through hands-on projects.
 
 ---
 
@@ -34,11 +34,26 @@ Right now I'm deepening my understanding of **system design, role-based access c
 
 <table>
 <tr>
-<td align="center" width="100"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="45" height="45"/><br><sub><b>Java</b></sub></td>
-<td align="center" width="100"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="45" height="45"/><br><sub><b>JavaScript</b></sub></td>
-<td align="center" width="100"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="45" height="45"/><br><sub><b>TypeScript</b></sub></td>
-<td align="center" width="100"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="45" height="45"/><br><sub><b>HTML5</b></sub></td>
-<td align="center" width="100"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="45" height="45"/><br><sub><b>CSS3</b></sub></td>
+<td align="center" width="100">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="45"/>
+<br><sub><b>Java</b></sub>
+</td>
+<td align="center" width="100">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="45"/>
+<br><sub><b>JavaScript</b></sub>
+</td>
+<td align="center" width="100">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="45"/>
+<br><sub><b>TypeScript</b></sub>
+</td>
+<td align="center" width="100">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="45"/>
+<br><sub><b>HTML5</b></sub>
+</td>
+<td align="center" width="100">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="45"/>
+<br><sub><b>CSS3</b></sub>
+</td>
 </tr>
 </table>
 
@@ -46,8 +61,14 @@ Right now I'm deepening my understanding of **system design, role-based access c
 
 <table>
 <tr>
-<td align="center" width="100"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="45" height="45"/><br><sub><b>React</b></sub></td>
-<td align="center" width="100"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vite/vite-original.svg" width="45" height="45"/><br><sub><b>Vite</b></sub></td>
+<td align="center" width="100">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="45"/>
+<br><sub><b>React</b></sub>
+</td>
+<td align="center" width="100">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vite/vite-original.svg" width="45"/>
+<br><sub><b>Vite</b></sub>
+</td>
 </tr>
 </table>
 
@@ -55,9 +76,18 @@ Right now I'm deepening my understanding of **system design, role-based access c
 
 <table>
 <tr>
-<td align="center" width="100"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="45" height="45"/><br><sub><b>Spring Boot</b></sub></td>
-<td align="center" width="100"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="45" height="45"/><br><sub><b>Node.js</b></sub></td>
-<td align="center" width="100"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="45" height="45"/><br><sub><b>Express.js</b></sub></td>
+<td align="center" width="100">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="45"/>
+<br><sub><b>Spring Boot</b></sub>
+</td>
+<td align="center" width="100">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="45"/>
+<br><sub><b>Node.js</b></sub>
+</td>
+<td align="center" width="100">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="45"/>
+<br><sub><b>Express.js</b></sub>
+</td>
 </tr>
 </table>
 
@@ -65,7 +95,10 @@ Right now I'm deepening my understanding of **system design, role-based access c
 
 <table>
 <tr>
-<td align="center" width="100"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="45" height="45"/><br><sub><b>MySQL</b></sub></td>
+<td align="center" width="100">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="45"/>
+<br><sub><b>MySQL</b></sub>
+</td>
 </tr>
 </table>
 
@@ -73,50 +106,101 @@ Right now I'm deepening my understanding of **system design, role-based access c
 
 <table>
 <tr>
-<td align="center" width="100"><img src="https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/jwt-io.svg" width="45" height="45"/><br><sub><b>JWT</b></sub></td>
-<td align="center" width="100"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="45" height="45"/><br><sub><b>Spring Security</b></sub></td>
+<td align="center" width="100">
+<img src="https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/jwt-io.svg" width="45"/>
+<br><sub><b>JWT</b></sub>
+</td>
+<td align="center" width="100">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="45"/>
+<br><sub><b>Spring Security</b></sub>
+</td>
 </tr>
 </table>
 
-<sub>+ REST APIs · Role-Based Access Control (RBAC) — architectural patterns rather than branded products, so no separate logo</sub>
+**REST APIs · Role-Based Access Control (RBAC)**
 
-### AI / ML
+### AI / Machine Learning
 
 <table>
 <tr>
-<td align="center" width="100"><img src="https://raw.githubusercontent.com/lobehub/lobe-icons/master/packages/static-svg/icons/groq.svg" width="45" height="45"/><br><sub><b>Groq LLM</b></sub></td>
-<td align="center" width="100"><img src="https://img.shields.io/badge/Weka-D22128?style=for-the-badge" height="28"/></td>
+<td align="center" width="100">
+<img src="https://raw.githubusercontent.com/lobehub/lobe-icons/master/packages/static-svg/icons/groq.svg" width="45"/>
+<br><sub><b>Groq LLM</b></sub>
+</td>
+<td align="center" width="100">
+<img src="https://img.shields.io/badge/Weka-D22128?style=for-the-badge" height="28"/>
+<br><sub><b>Weka</b></sub>
+</td>
 </tr>
 </table>
 
-<sub>Machine Learning</sub>
+**Machine Learning · AI Applications · AI Assistants · Multi-Agent Systems**
 
 ### Testing & Tools
 
 <table>
 <tr>
-<td align="center" width="100"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" width="45" height="45"/><br><sub><b>Jest</b></sub></td>
-<td align="center" width="100"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="45" height="45"/><br><sub><b>Docker</b></sub></td>
-<td align="center" width="100"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/maven/maven-original.svg" width="45" height="45"/><br><sub><b>Maven</b></sub></td>
-<td align="center" width="100"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" width="45" height="45"/><br><sub><b>Postman</b></sub></td>
+<td align="center" width="100">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" width="45"/>
+<br><sub><b>Jest</b></sub>
+</td>
+<td align="center" width="100">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="45"/>
+<br><sub><b>Docker</b></sub>
+</td>
+<td align="center" width="100">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/maven/maven-original.svg" width="45"/>
+<br><sub><b>Maven</b></sub>
+</td>
+<td align="center" width="100">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" width="45"/>
+<br><sub><b>Postman</b></sub>
+</td>
 </tr>
 </table>
 
-### Cloud & Tools
+### Cloud & Development Tools
 
 <table>
 <tr>
-<td align="center" width="100"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="45" height="45"/><br><sub><b>Git</b></sub></td>
-<td align="center" width="100"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="45" height="45"/><br><sub><b>GitHub</b></sub></td>
-<td align="center" width="100"><img src="https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/railway.svg" width="45" height="45"/><br><sub><b>Railway</b></sub></td>
-<td align="center" width="100"><img src="https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/vercel.svg" width="45" height="45"/><br><sub><b>Vercel</b></sub></td>
-<td align="center" width="100"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" width="45" height="45"/><br><sub><b>IntelliJ IDEA</b></sub></td>
+<td align="center" width="100">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="45"/>
+<br><sub><b>Git</b></sub>
+</td>
+<td align="center" width="100">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="45"/>
+<br><sub><b>GitHub</b></sub>
+</td>
+<td align="center" width="100">
+<img src="https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/railway.svg" width="45"/>
+<br><sub><b>Railway</b></sub>
+</td>
+<td align="center" width="100">
+<img src="https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/vercel.svg" width="45"/>
+<br><sub><b>Vercel</b></sub>
+</td>
+<td align="center" width="100">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" width="45"/>
+<br><sub><b>IntelliJ IDEA</b></sub>
+</td>
 </tr>
 <tr>
-<td align="center" width="100"><img src="https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/claude-ai.svg" width="45" height="45"/><br><sub><b>Claude AI</b></sub></td>
-<td align="center" width="100"><img src="https://raw.githubusercontent.com/lobehub/lobe-icons/master/packages/static-svg/icons/codex-color.svg" width="45" height="45"/><br><sub><b>Codex</b></sub></td>
-<td align="center" width="100"><img src="https://raw.githubusercontent.com/lobehub/lobe-icons/master/packages/static-svg/icons/antigravity-color.svg" width="45" height="45"/><br><sub><b>Google Antigravity</b></sub></td>
-<td align="center" width="100"><img src="https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/opencode.svg" width="45" height="45"/><br><sub><b>opencode</b></sub></td>
+<td align="center" width="100">
+<img src="https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/claude-ai.svg" width="45"/>
+<br><sub><b>Claude AI</b></sub>
+</td>
+<td align="center" width="100">
+<img src="https://raw.githubusercontent.com/lobehub/lobe-icons/master/packages/static-svg/icons/codex-color.svg" width="45"/>
+<br><sub><b>Codex</b></sub>
+</td>
+<td align="center" width="100">
+<img src="https://raw.githubusercontent.com/lobehub/lobe-icons/master/packages/static-svg/icons/antigravity-color.svg" width="45"/>
+<br><sub><b>Google Antigravity</b></sub>
+</td>
+<td align="center" width="100">
+<img src="https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/opencode.svg" width="45"/>
+<br><sub><b>opencode</b></sub>
+</td>
 </tr>
 </table>
 
@@ -124,99 +208,130 @@ Right now I'm deepening my understanding of **system design, role-based access c
 
 ## Featured Projects
 
-# Mutual Funds Performance Prediction
+### Mutual Funds Performance Prediction
 
-A full-stack platform for mutual fund analysis, combining machine-learning-based performance prediction with SIP analysis and AI-assisted insights.
+A full-stack platform for mutual fund analysis, combining historical performance analysis, machine-learning-based prediction, SIP projections, and AI-assisted insights.
 
-The system provides a web interface for analyzing mutual funds, generating predictions, performing SIP calculations, and interacting with an AI assistant for investment-related insights.
+Built with a React frontend and Spring Boot backend, with REST APIs and cloud deployment.
 
-## 🛠️ Technology & Deployment
+**Technology & Deployment**
 
-[![React](https://img.shields.io/badge/React-19-61DAFB?style=for-the-badge&logo=react&logoColor=black)](https://react.dev/)
-[![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)](https://vite.dev/)
-[![Java](https://img.shields.io/badge/Java-17-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)](https://www.java.com/)
-[![Spring Boot](https://img.shields.io/badge/Spring_Boot-REST_API-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)](https://spring.io/projects/spring-boot)
-[![Weka](https://img.shields.io/badge/Weka-Machine_Learning-D71920?style=for-the-badge)](https://www.weka.io/)
-[![Maven](https://img.shields.io/badge/Maven-Build-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white)](https://maven.apache.org/)
+[![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge\&logo=react\&logoColor=black)](https://react.dev/)
+[![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge\&logo=vite\&logoColor=white)](https://vite.dev/)
+[![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge\&logo=openjdk\&logoColor=white)](https://www.java.com/)
+[![Spring Boot](https://img.shields.io/badge/Spring_Boot-REST_API-6DB33F?style=for-the-badge\&logo=springboot\&logoColor=white)](https://spring.io/projects/spring-boot)
+[![Weka](https://img.shields.io/badge/Weka-Machine_Learning-D22128?style=for-the-badge)](https://www.cs.waikato.ac.nz/ml/weka/)
+[![Maven](https://img.shields.io/badge/Maven-Build-C71A36?style=for-the-badge\&logo=apachemaven\&logoColor=white)](https://maven.apache.org/)
 [![Groq](https://img.shields.io/badge/Groq-LLM_API-F55036?style=for-the-badge)](https://groq.com/)
-[![Railway](https://img.shields.io/badge/Deployment-Railway-0B0D0E?style=for-the-badge&logo=railway&logoColor=white)](https://railway.app/)
+[![Railway](https://img.shields.io/badge/Railway-Deployment-0B0D0E?style=for-the-badge\&logo=railway\&logoColor=white)](https://railway.app/)
 
-## Features
+[![View Repository](https://img.shields.io/badge/View_Repository-181717?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/gagan232005/MutualFundsPerformance)
 
-- Mutual fund performance analysis
-- Machine learning-based prediction
-- SIP analysis and calculations
-- AI-assisted insights
-- REST API-based backend
-- Full-stack web interface
-- Cloud deployment
+---
 
-## Repository
+### FitSync
 
-[![View Repository](https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/gagan232005/MutualFundsPerformance)
+A full-stack fitness and gym management platform supporting **members, trainers, and admins** with role-based access, workout management, diet planning, progress tracking, memberships, and trainer/admin dashboards.
 
+The application uses a React + TypeScript frontend backed by a Spring Boot REST API and MySQL database.
 
-### 🏋️ FitSync
-A full-stack gym management platform for members, trainers, and admins — memberships with plan/expiry tracking, GPS-based check-in, an exercise library, and role-based dashboards across a 4-tier permission system.
+**Technology**
 
-**Tech Stack:** React · TypeScript · Spring Boot · Spring Security · JPA · MySQL · JWT
+[![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge\&logo=react\&logoColor=black)](https://react.dev/)
+[![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge\&logo=typescript\&logoColor=white)](https://www.typescriptlang.org/)
+[![Spring\_Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge\&logo=springboot\&logoColor=white)](https://spring.io/projects/spring-boot)
+[![Spring\_Security](https://img.shields.io/badge/Spring_Security-6DB33F?style=for-the-badge\&logo=springsecurity\&logoColor=white)](https://spring.io/projects/spring-security)
+[![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge\&logo=mysql\&logoColor=white)](https://www.mysql.com/)
+[![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge\&logo=jsonwebtokens\&logoColor=white)](https://jwt.io/)
 
-**Repository:** [github.com/gagan232005/FitSync](https://github.com/gagan232005/FitSync)
+[![View\_Repository](https://img.shields.io/badge/View_Repository-181717?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/gagan232005/FitSync)
 
-### 📚 Learning Management System (LearnX)
-A course platform covering enrollment, lessons, quizzes, and progress tracking, with certificate generation and role-based authorization for learners, mentors, and admins.
+---
 
-**Tech Stack:** React · Node.js · Express.js · MySQL · JWT · Docker · Jest · Supertest
+### Learning Management System
 
-**Repository:** [github.com/gagan232005/Learning-Management-System](https://github.com/gagan232005/Learning-Management-System)
+A full-stack learning platform with **student, mentor, and admin roles**, supporting course enrollment, structured lessons, quizzes, progress tracking, certificates, and role-based authorization.
 
-### ✈️ TripMinds
-A multi-agent AI travel planning system that generates structured, budget-aware itineraries.
+The project also includes automated testing, Docker-based setup, and CI workflows.
 
-**Tech Stack:** React · Vite · Node.js · Express.js · AI · Multi-Agent Systems
+**Technology**
 
-**Repository:** [github.com/gagan232005/TripMinds](https://github.com/gagan232005/TripMinds)
+[![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge\&logo=react\&logoColor=black)](https://react.dev/)
+[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+[![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge\&logo=node.js\&logoColor=white)](https://nodejs.org/)
+[![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge\&logo=express\&logoColor=white)](https://expressjs.com/)
+[![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge\&logo=mysql\&logoColor=white)](https://www.mysql.com/)
+[![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge\&logo=jsonwebtokens\&logoColor=white)](https://jwt.io/)
+[![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge\&logo=docker\&logoColor=white)](https://www.docker.com/)
+[![Jest](https://img.shields.io/badge/Jest-C21325?style=for-the-badge\&logo=jest\&logoColor=white)](https://jestjs.io/)
+[![Supertest](https://img.shields.io/badge/Supertest-Testing-000000?style=for-the-badge)](https://github.com/ladjs/supertest)
 
+[![View\_Repository](https://img.shields.io/badge/View_Repository-181717?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/gagan232005/Learning-Management-System)
+
+---
+
+### TripMinds
+
+A multi-agent AI travel planning system that converts natural-language travel requirements into structured, budget-aware day-by-day itineraries.
+
+The backend coordinates specialized planning agents for transport, stays, activities, budgeting, optimization, and itinerary refinement.
+
+**Technology**
+
+[![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge\&logo=react\&logoColor=black)](https://react.dev/)
+[![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge\&logo=vite\&logoColor=white)](https://vite.dev/)
+[![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge\&logo=node.js\&logoColor=white)](https://nodejs.org/)
+[![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge\&logo=express\&logoColor=white)](https://expressjs.com/)
+[![AI](https://img.shields.io/badge/AI-Multi--Agent_System-6E56CF?style=for-the-badge)](#)
+[![Multi-Agent](https://img.shields.io/badge/Multi--Agent_Architecture-412991?style=for-the-badge)](#)
+
+[![View\_Repository](https://img.shields.io/badge/View_Repository-181717?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/gagan232005/TripMinds)
+
+---
+
+### Vehicle Service Management System
+
+A vehicle service management project focused on organizing vehicle servicing workflows and management operations.
+
+**Status:** Repository currently under development.
+
+[![View\_Repository](https://img.shields.io/badge/View_Repository-181717?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/gagan232005/vehicle-service-management)
 
 ---
 
 ## Education
 
-**B.E. Computer Science and Engineering**
+**B.E. — Computer Science and Engineering**
 Channabasaveshwara Institute of Technology, Gubbi, Tumakuru
-2023 – 2027 · CGPA: 7.62 / 10
+**2023 – 2027 · CGPA: 7.62 / 10**
+
+### Certification
+
+**Oracle Certified Foundation Associate — OCI AI Foundations**
+2025
 
 ---
 
-## 🤝 Let's Connect
+## Let's Connect
 
-📧 Email me at [gagan23cs@gmail.com](mailto:gagan23cs@gmail.com) 
+I'm open to opportunities in:
 
-💼 Open to **Backend Engineering** · **Full-Stack Development** · **Software Engineering / SDE** opportunities
-
-🤝 Always interested in collaboration, interesting projects, and learning something new
-
-🚀 **Design. Build. Deploy. Repeat.**
-
-Thanks for stopping by my profile! 
-
-👋 If any of my projects catch your eye, feel free to dig through the repositories below — and a ⭐ on anything you find useful is always appreciated.
+**Backend Engineering · Full-Stack Development · Software Engineering / SDE**
 
 <p align="left">
   <a href="https://github.com/gagan232005">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"
-         width="36" height="36" alt="GitHub"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="36" alt="GitHub"/>
   </a>
-  &nbsp;&nbsp;&nbsp;
-
+  &nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/gagan232005/">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg"
-         width="36" height="36" alt="LinkedIn"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="36" alt="LinkedIn"/>
   </a>
-  &nbsp;&nbsp;&nbsp;
-
+  &nbsp;&nbsp;
   <a href="mailto:gagan23cs@gmail.com">
-    <img src="https://cdn.simpleicons.org/gmail/EA4335"
-         width="36" height="36" alt="Email"/>
+    <img src="https://cdn.simpleicons.org/gmail/EA4335" width="36" alt="Email"/>
   </a>
 </p>
+
+---
+
+**Design. Build. Deploy. Repeat.**
