@@ -18,20 +18,17 @@ Building practical software • Solving problems • Learning system design • 
 
 ---
 
-## About
+## 🧑‍💻 About Me
 
 I'm a Computer Science & Engineering student focused on **backend engineering and full-stack development**.
 
 I enjoy building applications end-to-end — from database design and secure REST APIs to frontend interfaces and deployment.
 
-Currently strengthening my understanding of **system design, RBAC, scalable application architecture, and AI-powered applications** through hands-on projects.
+Currently strengthening my technical skills by building full-stack applications, backend systems, and AI-powered solutions.
 
----
+## 🛠️ Tech Stack
 
-## Tech Stack
-
-### Languages
-
+### 💻 Languages
 <table>
 <tr>
 <td align="center" width="100">
@@ -57,7 +54,7 @@ Currently strengthening my understanding of **system design, RBAC, scalable appl
 </tr>
 </table>
 
-### Frontend
+### 🎨 Frontend
 
 <table>
 <tr>
@@ -72,7 +69,7 @@ Currently strengthening my understanding of **system design, RBAC, scalable appl
 </tr>
 </table>
 
-### Backend
+### 🔧 Backend
 
 <table>
 <tr>
@@ -91,7 +88,7 @@ Currently strengthening my understanding of **system design, RBAC, scalable appl
 </tr>
 </table>
 
-### Database
+### 🛢️ Database
 
 <table>
 <tr>
@@ -102,7 +99,7 @@ Currently strengthening my understanding of **system design, RBAC, scalable appl
 </tr>
 </table>
 
-### Security & APIs
+### 🔐 Security & APIs
 
 <table>
 <tr>
@@ -117,9 +114,9 @@ Currently strengthening my understanding of **system design, RBAC, scalable appl
 </tr>
 </table>
 
-**REST APIs · Role-Based Access Control (RBAC)**
 
-### AI / Machine Learning
+
+### 🧠 AI / Machine Learning
 
 <table>
 <tr>
@@ -136,7 +133,7 @@ Currently strengthening my understanding of **system design, RBAC, scalable appl
 
 **Machine Learning · AI Applications · AI Assistants · Multi-Agent Systems**
 
-### Testing & Tools
+### 🧪 Testing
 
 <table>
 <tr>
@@ -159,7 +156,7 @@ Currently strengthening my understanding of **system design, RBAC, scalable appl
 </tr>
 </table>
 
-### Cloud & Development Tools
+### 🌐 Cloud & Development Tools
 
 <table>
 <tr>
@@ -287,17 +284,7 @@ The backend coordinates specialized planning agents for transport, stays, activi
 
 [![View\_Repository](https://img.shields.io/badge/View_Repository-181717?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/gagan232005/TripMinds)
 
----
 
-### Vehicle Service Management System
-
-A vehicle service management project focused on organizing vehicle servicing workflows and management operations.
-
-**Status:** Repository currently under development.
-
-[![View\_Repository](https://img.shields.io/badge/View_Repository-181717?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/gagan232005/vehicle-service-management)
-
----
 
 ## Education
 
@@ -305,10 +292,11 @@ A vehicle service management project focused on organizing vehicle servicing wor
 Channabasaveshwara Institute of Technology, Gubbi, Tumakuru
 **2023 – 2027 · CGPA: 7.62 / 10**
 
-### Certification
+### Achivements & Certification
 
-**Oracle Certified Foundation Associate — OCI AI Foundations**
-2025
+**Karnataka State Board Exam 12th Grade (2023): Top scorer in Computer Science:98/100**
+**Certification in Java Programming (2023)**
+**Oracle Certified Foundation Associate — OCI AI Foundations (2025)**
 
 ---
 
