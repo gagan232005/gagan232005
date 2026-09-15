@@ -124,12 +124,45 @@ Right now I'm deepening my understanding of **system design, role-based access c
 
 ## Featured Projects
 
-### <img src="https://raw.githubusercontent.com/lucide-icons/lucide/main/icons/chart-candlestick.svg" width="22" height="22" style="vertical-align:middle"/> Mutual Funds Performance Prediction
-A full-stack platform for mutual fund analysis, combining a machine-learning prediction model with SIP analysis and AI-assisted insights.
+### Mutual Funds Performance Prediction
 
-**Tech Stack:** React · Spring Boot · REST APIs · Machine Learning · Groq LLM
+A full-stack platform for mutual fund analysis, combining machine-learning-based performance prediction with SIP analysis and AI-assisted insights.
 
-[![View Repository](https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/gagan232005/MutualFundsPerformance)
+The application brings together a React frontend, Spring Boot REST APIs, predictive modeling, and Groq-powered AI functionality into a single platform.
+
+<table>
+<tr>
+
+<td align="center" width="110">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="42" height="42"/>
+<br><sub><b>React</b></sub>
+</td>
+
+<td align="center" width="110">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="42" height="42"/>
+<br><sub><b>Spring Boot</b></sub>
+</td>
+
+<td align="center" width="110">
+<img src="https://cdn.simpleicons.org/openapiinitiative" width="42" height="42"/>
+<br><sub><b>REST APIs</b></sub>
+</td>
+
+<td align="center" width="110">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="42" height="42"/>
+<br><sub><b>Machine Learning</b></sub>
+</td>
+
+<td align="center" width="110">
+<img src="https://cdn.simpleicons.org/groq" width="42" height="42"/>
+<br><sub><b>Groq LLM</b></sub>
+</td>
+
+</tr>
+</table>
+
+[![View Repository](https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/gagan232005/MutualFundsPerformance)
+
 
 ### 🏋️ FitSync
 A full-stack gym management platform for members, trainers, and admins — memberships with plan/expiry tracking, GPS-based check-in, an exercise library, and role-based dashboards across a 4-tier permission system.
