@@ -124,44 +124,36 @@ Right now I'm deepening my understanding of **system design, role-based access c
 
 ## Featured Projects
 
-### Mutual Funds Performance Prediction
+# Mutual Funds Performance Prediction
 
 A full-stack platform for mutual fund analysis, combining machine-learning-based performance prediction with SIP analysis and AI-assisted insights.
 
-The application brings together a React frontend, Spring Boot REST APIs, predictive modeling, and Groq-powered AI functionality into a single platform.
+The system provides a web interface for analyzing mutual funds, generating predictions, performing SIP calculations, and interacting with an AI assistant for investment-related insights.
 
-<table>
-<tr>
+## 🛠️ Technology & Deployment
 
-<td align="center" width="110">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="42" height="42"/>
-<br><sub><b>React</b></sub>
-</td>
+[![React](https://img.shields.io/badge/React-19-61DAFB?style=for-the-badge&logo=react&logoColor=black)](https://react.dev/)
+[![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)](https://vite.dev/)
+[![Java](https://img.shields.io/badge/Java-17-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)](https://www.java.com/)
+[![Spring Boot](https://img.shields.io/badge/Spring_Boot-REST_API-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)](https://spring.io/projects/spring-boot)
+[![Weka](https://img.shields.io/badge/Weka-Machine_Learning-D71920?style=for-the-badge)](https://www.weka.io/)
+[![Maven](https://img.shields.io/badge/Maven-Build-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white)](https://maven.apache.org/)
+[![Groq](https://img.shields.io/badge/Groq-LLM_API-F55036?style=for-the-badge)](https://groq.com/)
+[![Railway](https://img.shields.io/badge/Deployment-Railway-0B0D0E?style=for-the-badge&logo=railway&logoColor=white)](https://railway.app/)
 
-<td align="center" width="110">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="42" height="42"/>
-<br><sub><b>Spring Boot</b></sub>
-</td>
+## Features
 
-<td align="center" width="110">
-<img src="https://cdn.simpleicons.org/openapiinitiative" width="42" height="42"/>
-<br><sub><b>REST APIs</b></sub>
-</td>
+- Mutual fund performance analysis
+- Machine learning-based prediction
+- SIP analysis and calculations
+- AI-assisted insights
+- REST API-based backend
+- Full-stack web interface
+- Cloud deployment
 
-<td align="center" width="110">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="42" height="42"/>
-<br><sub><b>Machine Learning</b></sub>
-</td>
+## Repository
 
-<td align="center" width="110">
-<img src="https://cdn.simpleicons.org/groq" width="42" height="42"/>
-<br><sub><b>Groq LLM</b></sub>
-</td>
-
-</tr>
-</table>
-
-[![View Repository](https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/gagan232005/MutualFundsPerformance)
+[![View Repository](https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/gagan232005/MutualFundsPerformance)
 
 
 ### 🏋️ FitSync
