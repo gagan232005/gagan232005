@@ -118,20 +118,9 @@ Currently strengthening my technical skills by building full-stack applications,
 
 ### 🧠 AI / Machine Learning
 
-<table>
-<tr>
-<td align="center" width="100">
-<img src="https://raw.githubusercontent.com/lobehub/lobe-icons/master/packages/static-svg/icons/groq.svg" width="45"/>
-<br><sub><b>Groq LLM</b></sub>
-</td>
-<td align="center" width="100">
-<img src="https://img.shields.io/badge/Weka-D22128?style=for-the-badge" height="28"/>
-<br><sub><b>Weka</b></sub>
-</td>
-</tr>
-</table>
+[![Weka](https://img.shields.io/badge/Weka-Machine_Learning-D22128?style=for-the-badge)](https://www.cs.waikato.ac.nz/ml/weka/)
+[![Groq](https://img.shields.io/badge/Groq-LLM_API-F55036?style=for-the-badge)](https://groq.com/)
 
-**Machine Learning · AI Applications · AI Assistants · Multi-Agent Systems**
 
 ### 🧪 Testing
 
@@ -295,7 +284,9 @@ Channabasaveshwara Institute of Technology, Gubbi, Tumakuru
 ### Achivements & Certification
 
 **Karnataka State Board Exam 12th Grade (2023): Top scorer in Computer Science:98/100**
+
 **Certification in Java Programming (2023)**
+
 **Oracle Certified Foundation Associate — OCI AI Foundations (2025)**
 
 ---
