@@ -7,6 +7,7 @@
 <p align="center">
   <a href="https://github.com/gagan232005"><img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" alt="GitHub"/></a>
   <a href="https://www.linkedin.com/in/gagan232005/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="mailto:gagan23cs@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" alt="Email"/></a>
 </p>
 
 <p align="center">
@@ -24,7 +25,6 @@ Right now I'm deepening my understanding of **system design, role-based access c
 - 🎓 B.E. in Computer Science & Engineering, Channabasaveshwara Institute of Technology (2023–2027)
 - 🏅 Oracle Certified Foundation Associate — OCI AI Foundations (2025)
 - 🌱 Currently exploring ML-driven analysis, LLM-powered features, and RBAC-driven backend design
-- 📫 Reach me on [LinkedIn](https://www.linkedin.com/in/gagan232005/)
 
 ---
 
@@ -74,17 +74,18 @@ Right now I'm deepening my understanding of **system design, role-based access c
 <table>
 <tr>
 <td align="center" width="100"><img src="https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/jwt-io.svg" width="45" height="45"/><br><sub><b>JWT</b></sub></td>
+<td align="center" width="100"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="45" height="45"/><br><sub><b>Spring Security</b></sub></td>
 </tr>
 </table>
 
-<sub>REST APIs · Spring Security · Role-Based Access Control (RBAC)</sub>
+<sub>+ REST APIs · Role-Based Access Control (RBAC) — architectural patterns rather than branded products, so no separate logo</sub>
 
 ### AI / ML
 
 <table>
 <tr>
-<td align="center" width="110"><img src="https://img.shields.io/badge/Weka-D22128?style=for-the-badge" height="28"/></td>
-<td align="center" width="110"><img src="https://img.shields.io/badge/Groq%20LLM-F55036?style=for-the-badge" height="28"/></td>
+<td align="center" width="100"><img src="https://raw.githubusercontent.com/lobehub/lobe-icons/master/packages/static-svg/icons/groq.svg" width="45" height="45"/><br><sub><b>Groq LLM</b></sub></td>
+<td align="center" width="100"><img src="https://img.shields.io/badge/Weka-D22128?style=for-the-badge" height="28"/></td>
 </tr>
 </table>
 
@@ -113,8 +114,8 @@ Right now I'm deepening my understanding of **system design, role-based access c
 </tr>
 <tr>
 <td align="center" width="100"><img src="https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/claude-ai.svg" width="45" height="45"/><br><sub><b>Claude AI</b></sub></td>
-<td align="center" width="100"><img src="https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/codex.svg" width="45" height="45"/><br><sub><b>Codex</b></sub></td>
-<td align="center" width="110"><img src="https://img.shields.io/badge/Antigravity-4285F4?style=for-the-badge" height="28"/></td>
+<td align="center" width="100"><img src="https://raw.githubusercontent.com/lobehub/lobe-icons/master/packages/static-svg/icons/codex-color.svg" width="45" height="45"/><br><sub><b>Codex</b></sub></td>
+<td align="center" width="100"><img src="https://raw.githubusercontent.com/lobehub/lobe-icons/master/packages/static-svg/icons/antigravity-color.svg" width="45" height="45"/><br><sub><b>Google Antigravity</b></sub></td>
 <td align="center" width="100"><img src="https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/opencode.svg" width="45" height="45"/><br><sub><b>opencode</b></sub></td>
 </tr>
 </table>
@@ -123,30 +124,30 @@ Right now I'm deepening my understanding of **system design, role-based access c
 
 ## Featured Projects
 
+### <img src="https://raw.githubusercontent.com/lucide-icons/lucide/main/icons/chart-candlestick.svg" width="22" height="22" style="vertical-align:middle"/> Mutual Funds Performance Prediction
+**Description:** A full-stack platform for mutual fund analysis, combining a machine-learning prediction model with SIP analysis and AI-assisted insights.
+**Tech Stack:** React · Spring Boot · REST APIs · MySQL · Machine Learning
+**Repository:** [github.com/gagan232005/MutualFundsPerformance](https://github.com/gagan232005/MutualFundsPerformance)
+
 ### 🏋️ FitSync
-A full-stack gym management platform for members, trainers, and admins — memberships with plan/expiry tracking, GPS-based check-in, an exercise library, and role-based dashboards across a 4-tier permission system.
-**Stack:** React · TypeScript · Spring Boot · Spring Security · JPA · MySQL · JWT
-[Repository →](https://github.com/gagan232005/FitSync)
+**Description:** A full-stack gym management platform for members, trainers, and admins — memberships with plan/expiry tracking, GPS-based check-in, an exercise library, and role-based dashboards across a 4-tier permission system.
+**Tech Stack:** React · TypeScript · Spring Boot · Spring Security · JPA · MySQL · JWT
+**Repository:** [github.com/gagan232005/FitSync](https://github.com/gagan232005/FitSync)
 
 ### 📚 Learning Management System (LearnX)
-A course platform covering enrollment, lessons, quizzes, and progress tracking, with certificate generation and role-based authorization for learners, mentors, and admins.
-**Stack:** React · Node.js · Express.js · MySQL · JWT · Docker · Jest · Supertest
-[Repository →](https://github.com/gagan232005/Learning-Management-System)
-
-### 📈 Mutual Funds Performance Prediction
-A full-stack platform for mutual fund analysis, combining a machine-learning prediction model with SIP analysis and AI-assisted insights.
-**Stack:** React · Spring Boot · REST APIs · MySQL · Machine Learning
-[Repository →](https://github.com/gagan232005/MutualFundsPerformance)
+**Description:** A course platform covering enrollment, lessons, quizzes, and progress tracking, with certificate generation and role-based authorization for learners, mentors, and admins.
+**Tech Stack:** React · Node.js · Express.js · MySQL · JWT · Docker · Jest · Supertest
+**Repository:** [github.com/gagan232005/Learning-Management-System](https://github.com/gagan232005/Learning-Management-System)
 
 ### ✈️ TripMinds
-A multi-agent AI travel planning system that generates structured, budget-aware itineraries.
-**Stack:** React · Vite · Node.js · Express.js · AI · Multi-Agent Systems
-[Repository →](https://github.com/gagan232005/TripMinds)
+**Description:** A multi-agent AI travel planning system that generates structured, budget-aware itineraries.
+**Tech Stack:** React · Vite · Node.js · Express.js · AI · Multi-Agent Systems
+**Repository:** [github.com/gagan232005/TripMinds](https://github.com/gagan232005/TripMinds)
 
 ### 🚗 Vehicle Service Management System
-A service-booking and management application for vehicle maintenance workflows.
-**Stack:** See repository for current implementation
-[Repository →](https://github.com/gagan232005/vehicle-service-management)
+**Description:** A service-booking and management application for vehicle maintenance workflows.
+**Tech Stack:** See repository for current implementation
+**Repository:** [github.com/gagan232005/vehicle-service-management](https://github.com/gagan232005/vehicle-service-management)
 
 ---
 
@@ -158,9 +159,18 @@ Channabasaveshwara Institute of Technology, Gubbi, Tumakuru
 
 ---
 
-## Connect
+## 🤝 Let's Connect
+
+📧 Email me at [gagan23cs@gmail.com](mailto:gagan23cs@gmail.com)
+💼 Open to **Backend Engineering** · **Full-Stack Development** · **Software Engineering / SDE** opportunities
+🤝 Always interested in collaboration, interesting projects, and learning something new
+
+🚀 **Build. Learn. Solve. Repeat.**
+
+Thanks for stopping by my profile! 👋 If any of my projects catch your eye, feel free to dig through the repositories below — and a ⭐ on anything you find useful is always appreciated.
 
 <p align="left">
   <a href="https://github.com/gagan232005"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="32" height="32" alt="GitHub"/></a>&nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/gagan232005/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="32" height="32" alt="LinkedIn"/></a>
+  <a href="https://www.linkedin.com/in/gagan232005/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="32" height="32" alt="LinkedIn"/></a>&nbsp;&nbsp;
+  <a href="mailto:gagan23cs@gmail.com"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gmail/gmail-original.svg" width="32" height="32" alt="Email"/></a>
 </p>
