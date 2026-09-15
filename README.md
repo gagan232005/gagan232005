@@ -179,16 +179,19 @@ Thanks for stopping by my profile!
 
 <p align="left">
   <a href="https://github.com/gagan232005">
-    <img src="https://cdn.simpleicons.org/github" width="36" height="36" alt="GitHub"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"
+         width="36" height="36" alt="GitHub"/>
   </a>
   &nbsp;&nbsp;&nbsp;
 
   <a href="https://www.linkedin.com/in/gagan232005/">
-    <img src="https://cdn.simpleicons.org/linkedin" width="36" height="36" alt="LinkedIn"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg"
+         width="36" height="36" alt="LinkedIn"/>
   </a>
   &nbsp;&nbsp;&nbsp;
 
   <a href="mailto:gagan23cs@gmail.com">
-    <img src="https://cdn.simpleicons.org/gmail" width="36" height="36" alt="Email"/>
+    <img src="https://cdn.simpleicons.org/gmail/EA4335"
+         width="36" height="36" alt="Email"/>
   </a>
 </p>
