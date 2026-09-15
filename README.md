@@ -279,6 +279,7 @@ The backend coordinates specialized planning agents for transport, stays, activi
 
 **B.E. — Computer Science and Engineering**
 Channabasaveshwara Institute of Technology, Gubbi, Tumakuru
+
 **2023 – 2027 · CGPA: 7.62 / 10**
 
 ### Achivements & Certification
