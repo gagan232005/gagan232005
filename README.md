@@ -161,16 +161,30 @@ Channabasaveshwara Institute of Technology, Gubbi, Tumakuru
 
 ## 🤝 Let's Connect
 
-📧 Email me at [gagan23cs@gmail.com](mailto:gagan23cs@gmail.com)
+📧 Email me at [gagan23cs@gmail.com](mailto:gagan23cs@gmail.com) 
+
 💼 Open to **Backend Engineering** · **Full-Stack Development** · **Software Engineering / SDE** opportunities
+
 🤝 Always interested in collaboration, interesting projects, and learning something new
 
-🚀 **Build. Learn. Solve. Repeat.**
+🚀 **Design. Build. Deploy. Repeat.**
 
-Thanks for stopping by my profile! 👋 If any of my projects catch your eye, feel free to dig through the repositories below — and a ⭐ on anything you find useful is always appreciated.
+Thanks for stopping by my profile! 
+
+👋 If any of my projects catch your eye, feel free to dig through the repositories below — and a ⭐ on anything you find useful is always appreciated.
 
 <p align="left">
-  <a href="https://github.com/gagan232005"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="32" height="32" alt="GitHub"/></a>&nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/gagan232005/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="32" height="32" alt="LinkedIn"/></a>&nbsp;&nbsp;
-  <a href="mailto:gagan23cs@gmail.com"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gmail/gmail-original.svg" width="32" height="32" alt="Email"/></a>
+  <a href="https://github.com/gagan232005">
+    <img src="https://cdn.simpleicons.org/github" width="36" height="36" alt="GitHub"/>
+  </a>
+  &nbsp;&nbsp;&nbsp;
+
+  <a href="https://www.linkedin.com/in/gagan232005/">
+    <img src="https://cdn.simpleicons.org/linkedin" width="36" height="36" alt="LinkedIn"/>
+  </a>
+  &nbsp;&nbsp;&nbsp;
+
+  <a href="mailto:gagan23cs@gmail.com">
+    <img src="https://cdn.simpleicons.org/gmail" width="36" height="36" alt="Email"/>
+  </a>
 </p>
