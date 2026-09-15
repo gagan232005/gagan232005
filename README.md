@@ -283,12 +283,9 @@ Channabasaveshwara Institute of Technology, Gubbi, Tumakuru
 
 ### Achivements & Certification
 
-**Karnataka State Board Exam 12th Grade (2023): Top scorer in Computer Science:98/100**
-
-**Certification in Java Programming (2023)**
-
-**Oracle Certified Foundation Associate — OCI AI Foundations (2025)**
-
+- **Karnataka State Board Exam — 12th Grade (2023):** Top Scorer in Computer Science — **98/100**
+- **Java Programming Certification (2023)**
+- **Oracle Certified Foundation Associate — OCI AI Foundations (2025)**
 ---
 
 ## Let's Connect
