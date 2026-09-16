@@ -58,16 +58,20 @@ Currently strengthening my technical skills by building full-stack applications,
 
 <table>
 <tr>
+
 <td align="center" width="100">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="45"/>
 <br><sub><b>React</b></sub>
 </td>
+
 <td align="center" width="100">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vite/vite-original.svg" width="45"/>
+<img src="https://vite.dev/logo.svg" width="45"/>
 <br><sub><b>Vite</b></sub>
 </td>
+
 </tr>
 </table>
+
 
 ### 🔧 Backend
 
