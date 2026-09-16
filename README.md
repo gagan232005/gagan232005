@@ -64,7 +64,7 @@ Currently strengthening my technical skills by building full-stack applications,
 </td>
 
 <td align="center" width="100">
-<img src="https://raw.githubusercontent.com/vitejs/vite/main/docs/public/logo.svg" width="45"/>
+<img src="https://www.svgrepo.com/show/354521/vitejs.svg" width="45"/>
 <br><sub><b>Vite</b></sub>
 </td>
 </tr>
