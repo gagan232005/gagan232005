@@ -103,17 +103,24 @@ Currently strengthening my technical skills by building full-stack applications,
 
 <table>
 <tr>
+
 <td align="center" width="100">
 <img src="https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/jwt-io.svg" width="45"/>
 <br><sub><b>JWT</b></sub>
 </td>
+
 <td align="center" width="100">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="45"/>
 <br><sub><b>Spring Security</b></sub>
 </td>
+
+<td align="center" width="100">
+<img src="https://www.svgrepo.com/show/447473/rest-api.svg" width="45"/>
+<br><sub><b>REST APIs</b></sub>
+</td>
+
 </tr>
 </table>
-
 
 
 ### 🧠 AI / Machine Learning
