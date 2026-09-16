@@ -85,7 +85,7 @@ Currently strengthening my technical skills by building full-stack applications,
 <br><sub><b>Node.js</b></sub>
 </td>
 <td align="center" width="100">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="45"/>
+<img src="[https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg](https://expressjs.com/images/logos/logo-express-black.svg)" width="45"/>
 <br><sub><b>Express.js</b></sub>
 </td>
 </tr>
