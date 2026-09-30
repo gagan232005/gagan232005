@@ -94,7 +94,7 @@ Currently strengthening my technical skills by building full-stack applications,
 
 </tr>
 </table>
-### 🛢️ Database
+###🛢️ Database
 
 <table>
 <tr>
