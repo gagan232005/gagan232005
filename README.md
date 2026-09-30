@@ -146,14 +146,6 @@ Currently strengthening my technical skills by building full-stack applications,
 <br><sub><b>Jest</b></sub>
 </td>
 <td align="center" width="100">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="45"/>
-<br><sub><b>Docker</b></sub>
-</td>
-<td align="center" width="100">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/maven/maven-original.svg" width="45"/>
-<br><sub><b>Maven</b></sub>
-</td>
-<td align="center" width="100">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" width="45"/>
 <br><sub><b>Postman</b></sub>
 </td>
