@@ -146,9 +146,15 @@ Currently strengthening my technical skills by building full-stack applications,
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" width="45"/>
 <br><sub><b>Jest</b></sub>
 </td>
+
 <td align="center" width="100">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" width="45"/>
 <br><sub><b>Postman</b></sub>
+</td>
+
+<td align="center" width="100">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/selenium/selenium-original.svg" width="45"/>
+<br><sub><b>Selenium</b></sub>
 </td>
 </tr>
 </table>
